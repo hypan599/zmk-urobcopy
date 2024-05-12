@@ -8,6 +8,7 @@ This branch is updated for the latest ZMK using Zephyr 3.5. A legacy version
 compatible with Zephyr 3.0 is available
 [here](https://github.com/urob/zmk-config/tree/main-zephyr-3.0).
 
+
 ## Highlights
 
 - clean keymap + unicode setup using helper macros from
